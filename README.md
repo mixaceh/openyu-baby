@@ -1,2 +1,1 @@
-# openyu-baby
-
+# OpenYu Baby
